@@ -42,5 +42,5 @@ Dê uma olhada nos meus projetos ou entre em contato para trocarmos uma ideia so
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronaurocamposI&theme=dracula&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ronaurocampos&theme=dracula&hide_border=true" />
 </div>
