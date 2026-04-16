@@ -1,7 +1,7 @@
 # Olá, eu sou o Ronauro Campos! 👋
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ronaurocampos-AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ronaurocampos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="150em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ronaurocampos&layout=compact&langs_count=7&theme=dracula" height="150em" />
 </div>
 
